@@ -1,9 +1,5 @@
-# Pyhtoncodes
+print("Pyhton_programming_language")
 
-# Merhabalar.
+print("My lecture codes")
 
-# Aktif olarak pyhton öğrenmekteyim.
 
-# Kodlarımı bol bol yorum satırıyla yazarak hem unutmanın önüne geçiyor, hemde öğrenmemi daha sıkı hale getiriyorum.
-
-# 100daysofCoding kapsamında pyhton dünyasını güzellikleriyle öğreniyorum.
